@@ -1,4 +1,4 @@
-- PASOS NECESARIOS PARA SUBIR UN ARCHIVO AL SERVIDOR REMOTO GIT
+PASOS NECESARIOS PARA SUBIR UN ARCHIVO AL SERVIDOR REMOTO GIT
 
 Una vez tenemos clonado el repositorio remoto de github en nuestra maquina local los pasos para subir los archivos que añadamos o modifiquemos en local al servidor remoto son:
 
